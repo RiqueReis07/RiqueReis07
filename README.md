@@ -18,4 +18,6 @@
 
 <p align="center">
   <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180" />
+  <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180" />
+  <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180" />
 </p>
