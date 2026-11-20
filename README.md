@@ -14,7 +14,6 @@
 - Autenticação e autorização com JWT
 - SQL e bancos de dados
 
-## 👻
 
 <p align="center">
   <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="180" />
